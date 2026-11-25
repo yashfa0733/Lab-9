@@ -1,0 +1,1 @@
+<?php if(session_status()!==PHP_SESSION_ACTIVE)session_start(); ?><!doctype html><html lang="en"><head><meta charset="utf-8"><title><?=htmlspecialchars($pageTitle??"Employee Portal")?></title><link rel="stylesheet" href="assets/style.css"></head><body><main>

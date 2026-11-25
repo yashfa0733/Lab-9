@@ -1,1 +1,2 @@
-# Lab-9
+# Lab 09 — Employee Management System (PHP)
+PHP project covering GET/POST, shared include files, server-side validation, department filter, session login gate, flash message and logout. Copy this folder into `C:\xampp\htdocs`, start Apache, then open `http://localhost/Lab-09-Employee-Management/login.php`. Demo login: `admin` / `admin123`. Employee records are session-based; no MySQL is used in this PHP fundamentals lab. Demo credentials are for classroom practice only.
